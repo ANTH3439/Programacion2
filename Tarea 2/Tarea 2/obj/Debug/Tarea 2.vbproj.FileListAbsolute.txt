@@ -1,0 +1,11 @@
+C:\Users\antho\Documents\PROGRAMACION\PROGRAMACION 2\Tarea 2\Tarea 2\bin\Debug\Tarea 2.exe
+C:\Users\antho\Documents\PROGRAMACION\PROGRAMACION 2\Tarea 2\Tarea 2\bin\Debug\Tarea 2.pdb
+C:\Users\antho\Documents\PROGRAMACION\PROGRAMACION 2\Tarea 2\Tarea 2\bin\Debug\Tarea 2.xml
+C:\Users\antho\Documents\PROGRAMACION\PROGRAMACION 2\Tarea 2\Tarea 2\obj\Debug\Tarea 2.vbproj.AssemblyReference.cache
+C:\Users\antho\Documents\PROGRAMACION\PROGRAMACION 2\Tarea 2\Tarea 2\obj\Debug\Tarea_2.Form1.resources
+C:\Users\antho\Documents\PROGRAMACION\PROGRAMACION 2\Tarea 2\Tarea 2\obj\Debug\Tarea_2.Resources.resources
+C:\Users\antho\Documents\PROGRAMACION\PROGRAMACION 2\Tarea 2\Tarea 2\obj\Debug\Tarea 2.vbproj.GenerateResource.cache
+C:\Users\antho\Documents\PROGRAMACION\PROGRAMACION 2\Tarea 2\Tarea 2\obj\Debug\Tarea 2.vbproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\PROGRAMACION\PROGRAMACION 2\Tarea 2\Tarea 2\obj\Debug\Tarea 2.exe
+C:\Users\antho\Documents\PROGRAMACION\PROGRAMACION 2\Tarea 2\Tarea 2\obj\Debug\Tarea 2.xml
+C:\Users\antho\Documents\PROGRAMACION\PROGRAMACION 2\Tarea 2\Tarea 2\obj\Debug\Tarea 2.pdb
